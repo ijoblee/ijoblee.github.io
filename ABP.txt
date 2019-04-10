@@ -1,6 +1,9 @@
 [Adblock Plus 2.0]
 ! 白名单
 218.195.64.27#@#iframe
+! 特定文件
+http://wx2.sinaimg.cn/large/ed5e6a1dly1fx2qut6mgoj20r907h0xh.jpg
+/static/js/down.js
 ! 特定网站
 001d.com##iframe
 laomoit.com##.box
@@ -19,6 +22,4 @@ gaoqing.la/###head.row
 ##a[href^="http://www.japan-partner.com/"]
 ##.dialog-overlay
 ##iframe
-! 特定文件类型
-http://wx2.sinaimg.cn/large/ed5e6a1dly1fx2qut6mgoj20r907h0xh.jpg
-/static/js/down.js
+
