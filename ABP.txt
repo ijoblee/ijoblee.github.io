@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 218.195.64.27#@#iframe
 ##*.widget.php_text.wow.fadeInUp
 001d.com##iframe
