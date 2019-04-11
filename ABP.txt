@@ -4,7 +4,6 @@
 ! 特定文件
 http://wx2.sinaimg.cn/large/ed5e6a1dly1fx2qut6mgoj20r907h0xh.jpg
 /static/js/down.js
-/ad/
 ! 特定网站
 001d.com##iframe
 laomoit.com##.box
@@ -37,5 +36,5 @@ pipipan.com##span
 ##.gs
 ##.gsdw
 ##.ptjc
-##a[href^="href="http://www.bio360.net/ad"]
+##a[href^="http://www.bio360.net/ad"]
 
