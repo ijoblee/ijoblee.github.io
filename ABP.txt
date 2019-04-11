@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! 白名单
-lanzous.com,218.195.64.27#@#iframe
+! iplaysoft.com,lanzous.com,218.195.64.27#@#iframe
 ! 特定文件
 http://wx2.sinaimg.cn/large/ed5e6a1dly1fx2qut6mgoj20r907h0xh.jpg
 /static/js/down.js
@@ -23,7 +23,6 @@ pipipan.com##span
 ##[style="margin-bottom: 5px;"]
 ##[id^="vip"]
 ##[class^="ad"]
-##iframe
 ##.row-fluid.text-center
 ##.alert.alert-warning.text-center
 ##.speedydown-info-box
