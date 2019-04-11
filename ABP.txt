@@ -36,5 +36,5 @@ pipipan.com##span
 ##.gs
 ##.gsdw
 ##.ptjc
-##a[href^="http://www.bio360.net/ad"]
+##a[href^="http://www.bio360.net/ad/"]
 
