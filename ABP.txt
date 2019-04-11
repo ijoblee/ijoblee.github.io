@@ -36,3 +36,4 @@ pipipan.com##span
 ##.gs
 ##.gsdw
 ##.ptjc
+##.mb-10
