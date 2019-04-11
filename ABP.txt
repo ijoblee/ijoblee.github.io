@@ -34,3 +34,4 @@ pipipan.com##span
 ###gaosu.ul_Address1
 ##.gs
 ##.gsdw
+##.ptjc
