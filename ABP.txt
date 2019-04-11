@@ -15,11 +15,19 @@ anxz.com###sidebar
 toutiao.com##li.J_qihu_ad
 toutiao.com##.no-mode
 gaoqing.la/###head.row
+pipipan.com##span
 ! 通用
-##*.widget.php_text.wow.fadeInUp
-##a[href^="https://s.click.taobao.com"]
-##.ad-download
 ##a[href^="http://www.japan-partner.com/"]
-##.dialog-overlay
+##a[href^="https://s.click.taobao.com"]
+##[style="width: 180px; margin-right:0px;"]
+##[style="margin-bottom: 5px;"]
+##[id^="vip"]
+##[class^="ad"]
 ##iframe
-
+##.row-fluid.text-center
+##.alert.alert-warning.text-center
+##.speedydown-info-box
+##.pull-right
+##.dialog-overlay
+##.ad-download
+##.widget.php_text.wow.fadeInUp
