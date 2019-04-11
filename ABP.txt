@@ -32,5 +32,5 @@ pipipan.com##span
 ##.dialog-overlay
 ##.ad-download
 ##.widget.php_text.wow.fadeInUp
-##.gs
-###gaosu
+##p.gs
+##ul#gaosu
