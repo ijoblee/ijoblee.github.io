@@ -22,7 +22,6 @@ pipipan.com##span
 ##[style="width: 180px; margin-right:0px;"]
 ##[style="margin-bottom: 5px;"]
 ##[id^="vip"]
-! ##[class^="ad"]
 ###InviteWindow
 ###floatDiv
 ##.row-fluid.text-center
@@ -32,5 +31,3 @@ pipipan.com##span
 ##.dialog-overlay
 ##.ad-download
 ##.widget.php_text.wow.fadeInUp
-##p.gs
-##ul#gaosu
