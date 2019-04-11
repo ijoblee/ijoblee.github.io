@@ -22,7 +22,7 @@ pipipan.com##span
 ##[style="width: 180px; margin-right:0px;"]
 ##[style="margin-bottom: 5px;"]
 ##[id^="vip"]
-##[class^="ad"]
+! ##[class^="ad"]
 ###InviteWindow
 ###floatDiv
 ##.row-fluid.text-center
