@@ -24,6 +24,7 @@ pipipan.com##span
 ##[id^="vip"]
 ##[class^="ad"]
 ###InviteWindow
+###floatDiv
 ##.row-fluid.text-center
 ##.alert.alert-warning.text-center
 ##.speedydown-info-box
