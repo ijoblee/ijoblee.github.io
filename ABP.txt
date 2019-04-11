@@ -14,6 +14,7 @@ ttmeiju.me##div[style="float:left;margin-bottom:27px;margin-top:27px;"]
 anxz.com###sidebar
 toutiao.com##li.J_qihu_ad
 toutiao.com##.no-mode
+toutiao.com##.tool-item.report-item
 gaoqing.la/###head.row
 pipipan.com##span
 ! 通用
