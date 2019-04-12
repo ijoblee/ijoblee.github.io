@@ -20,10 +20,12 @@ pipipan.com##span
 ! 通用
 ##a[href^="http://www.japan-partner.com/"]
 ##a[href^="https://s.click.taobao.com"]
+##a[href^="http://www.bio360.net/ad/"]
 ##[style="width: 180px; margin-right:0px;"]
 ##[style="margin-bottom: 5px;"]
 ##[id^="vip"]
 ###InviteWindow
+###infoModal
 ###floatDiv
 ##.row-fluid.text-center
 ##.alert.alert-warning.text-center
@@ -36,5 +38,3 @@ pipipan.com##span
 ##.gs
 ##.gsdw
 ##.ptjc
-##a[href^="http://www.bio360.net/ad/"]
-
