@@ -30,6 +30,7 @@ ctfile.com##span
 ###floatDiv
 ###gaosu.ul_Address1
 ###downlinksk
+###bdyunads
 ##.row-fluid.text-center
 ##.modal-backdrop.fade.in
 ##.alert.alert-warning.text-center
@@ -41,3 +42,4 @@ ctfile.com##span
 ##.gs
 ##.gsdw
 ##.ptjc
+
