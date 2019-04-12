@@ -28,14 +28,15 @@ ctfile.com##span
 ###InviteWindow
 ###infoModal
 ###floatDiv
+###gaosu.ul_Address1
 ##.row-fluid.text-center
+##.modal-backdrop.fade.in
 ##.alert.alert-warning.text-center
 ##.speedydown-info-box
 ##.pull-right
 ##.dialog-overlay
 ##.ad-download
 ##.widget.php_text.wow.fadeInUp
-###gaosu.ul_Address1
 ##.gs
 ##.gsdw
 ##.ptjc
