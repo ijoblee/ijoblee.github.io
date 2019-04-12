@@ -16,8 +16,8 @@ toutiao.com##li.J_qihu_ad
 toutiao.com##.no-mode
 toutiao.com##.tool-item.report-item
 gaoqing.la/###head.row
-pipipan.com,ctfile.com##span
-! ctfile.com##span
+pipipan.com##span
+ctfile.com##span
 ! 通用
 ##a[href^="http://www.japan-partner.com/"]
 ##a[href^="https://s.click.taobao.com"]
