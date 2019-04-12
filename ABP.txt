@@ -29,6 +29,7 @@ ctfile.com##span
 ###infoModal
 ###floatDiv
 ###gaosu.ul_Address1
+###downlinksk
 ##.row-fluid.text-center
 ##.modal-backdrop.fade.in
 ##.alert.alert-warning.text-center
