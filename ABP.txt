@@ -29,6 +29,7 @@ ctfile.com##span
 ###infoModal
 ###floatDiv
 ###gaosu.ul_Address1
+##[class^="ul_Address"]
 ###downlinksk
 ###bdyunads
 ##.row-fluid.text-center
