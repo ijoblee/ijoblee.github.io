@@ -30,6 +30,7 @@ ctfile.com##span
 ###infoModal
 ###floatDiv
 ###gaosu.ul_Address1
+###showadfoot
 ##[id^="gaosu"]
 ##[class^="ul_Address"]
 ###downlinksk
