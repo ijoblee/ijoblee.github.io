@@ -19,6 +19,7 @@ toutiao.com##.tool-item.report-item
 gaoqing.la###head.row
 pipipan.com##span
 ctfile.com##span
+cnzol.com##.fly-panel.layui-hide-xs
 ! 通用
 ##a[href^="http://www.japan-partner.com/"]
 ##a[href^="https://s.click.taobao.com"]
