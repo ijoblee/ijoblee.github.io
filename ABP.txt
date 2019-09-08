@@ -3,6 +3,7 @@
 ! 暂留
 ! 特定文件
 http://wx2.sinaimg.cn/large/ed5e6a1dly1fx2qut6mgoj20r907h0xh.jpg
+http://gaoqing.la/wp-content/uploads/*.jpg
 /static/js/down.js
 ! 特定网站
 001d.com##iframe
