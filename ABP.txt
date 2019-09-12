@@ -11,7 +11,7 @@ laomoit.com##.box
 iplaysoft.com###section_hot
 vod.cnzol.com##.fly-case-desc
 ttmeiju.me###new-user
-ttmeiju.me##div[style="float:left;margin-bottom:27px;margin-top:27px;"]
+meijuba.net##body > .container > .row > .clearfix.hy-layout
 anxz.com###sidebar
 ! toutiao.com##li.J_qihu_ad
 toutiao.com##li[class$="ad"]
