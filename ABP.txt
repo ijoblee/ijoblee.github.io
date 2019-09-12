@@ -21,7 +21,7 @@ gaoqing.la###head.row
 pipipan.com##span
 ctfile.com##span
 cnzol.com##.fly-panel.layui-hide-xs
-meijuba.net##a[style="margin-bottom:5px;" width="100%" height="60"]
+meijuba.net##img[style="margin-bottom:5px;" width="100%" height="60"]
 ! 通用
 ##a[href^="http://www.japan-partner.com/"]
 ##a[href^="https://s.click.taobao.com"]
