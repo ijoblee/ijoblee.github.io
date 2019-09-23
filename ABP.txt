@@ -9,6 +9,15 @@ http://gaoqing.la/wp-content/uploads/20*.jpg
 ! 特定网站
 001d.com##iframe
 laomoit.com##.box
+cr173.com##.address_like.downurl
+cr173.com##.f-gsh3
+cr173.com###full_downad
+cr173.com##.c_soft_same.m-soft-relat
+cr173.com##.c_info_side
+cr173.com###class-soft
+cr173.com###class-cms
+cr173.com###downhelp
+cr173.com###s_comment
 iplaysoft.com###section_hot
 vod.cnzol.com##.fly-case-desc
 ttmeiju.me###new-user
