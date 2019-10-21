@@ -26,11 +26,13 @@ anxz.com###sidebar
 toutiao.com##li[class$="ad"]
 toutiao.com##.no-mode
 toutiao.com##.tool-item.report-item
+toutiao.com##.no-mode
 gaoqing.la###head.row
 pipipan.com##span
 ctfile.com##span
 cnzol.com##.fly-panel.layui-hide-xs
 meijuba.net##body > .container > .row > .clearfix.hy-layout
+ggxmv.com##.full-screen-cover
 ! 通用
 ##a[href^="http://www.japan-partner.com/"]
 ##a[href^="https://s.click.taobao.com"]
@@ -58,6 +60,12 @@ meijuba.net##body > .container > .row > .clearfix.hy-layout
 ##.gs
 ##.gsdw
 ##.ptjc
+##.custombox
+##.TOP_AD
 !{网易邮箱广告过滤开始
 ##div[style=" margin:4px; padding:10px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; line-height:22px; border:1px dashed #ccc; background:#fffff7; position:relative;"]
 !网易邮箱广告过滤结束}
+
+
+
+
