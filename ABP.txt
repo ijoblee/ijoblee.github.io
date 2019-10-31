@@ -1,4 +1,9 @@
 [Adblock Plus 2.0]
+! Version: 20191031
+! Title:  Joblee ADP
+! Last modified: 
+! Email: 
+! Homepage: 
 ! 白名单
 @@||mpyit.com
 ! 暂留
