@@ -4,6 +4,7 @@
 ! Last modified: 
 ! Email: 
 ! Homepage: 
+
 ! 白名单
 @@||mpyit.com
 ! 暂留
@@ -12,6 +13,13 @@ http://wx2.sinaimg.cn/large/ed5e6a1dly1fx2qut6mgoj20r907h0xh.jpg
 http://gaoqing.la/wp-content/uploads/20*.jpg
 /static/js/down.js
 ! 特定网站
+ebiotrade.com##.fk_input
+*.ebioweb.com/web_images/*
+@@||ebiotrade.com##ul#rdph
+www.ebiotrade.com##div.bigbox008:nth-of-type(5)
+www.ebiotrade.com##.bigbox007
+www.ebiotrade.com##.p1b1r_ss
+www.ebiotrade.com##.intoo
 001d.com##iframe
 laomoit.com##.box
 cr173.com##.address_like.downurl
