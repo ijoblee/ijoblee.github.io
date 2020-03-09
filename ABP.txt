@@ -8,7 +8,6 @@
 ! 白名单
 @@||mpyit.com
 #@#.pull-right
-@@||wind*.css
 ! 暂留
 ! 特定文件
 http://wx2.sinaimg.cn/large/ed5e6a1dly1fx2qut6mgoj20r907h0xh.jpg
