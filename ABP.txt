@@ -51,10 +51,13 @@ ggxmv.com##.full-screen-cover
 ##a[href^="http://www.japan-partner.com/"]
 ##a[href^="https://s.click.taobao.com"]
 ##a[href^="http://www.bio360.net/ad/"]
+##a[href^="https://jxqp1024.com"]
 ##[style="width: 180px; margin-right:0px;"]
 ##[style="margin-bottom: 5px;"]
 ##[id^="vip"]
 ###InviteWindow
+#@#.pull-right
+##.modal-content
 ###infoModal
 ###floatDiv
 ###gaosu.ul_Address1
