@@ -56,7 +56,7 @@ ggxmv.com##.full-screen-cover
 ##[style="margin-bottom: 5px;"]
 ##[id^="vip"]
 ###InviteWindow
-##.tac
+!##.tac
 #@#.pull-right
 ##.modal-content
 ###infoModal
