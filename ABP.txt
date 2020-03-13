@@ -51,6 +51,7 @@ ggxmv.com##.full-screen-cover
 ##td[height="26"]
 ###td_3733
 ##td.f9
+##tr[onmouseover="this.className='tr3 t_two'"]
 !BT7068 end
 
 ! 通用
