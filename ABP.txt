@@ -47,6 +47,12 @@ ctfile.com##span
 cnzol.com##.fly-panel.layui-hide-xs
 meijuba.net##body > .container > .row > .clearfix.hy-layout
 ggxmv.com##.full-screen-cover
+!BT7068 start
+##td[height="26"]
+###td_3733
+##td.f9
+!BT7068 end
+
 ! 通用
 ##a[href^="http://www.japan-partner.com/"]
 ##a[href^="https://s.click.taobao.com"]
