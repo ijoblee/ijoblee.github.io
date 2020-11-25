@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 20200309
+! Version: 20201125
 ! Title:  Joblee ADP
 ! Last modified: 
 ! Email: 
@@ -8,6 +8,8 @@
 ! 白名单
 @@||mpyit.com
 #@#.pull-right
+#@#.carousel
+
 ! 暂留
 ! 特定文件
 http://wx2.sinaimg.cn/large/ed5e6a1dly1fx2qut6mgoj20r907h0xh.jpg
@@ -92,6 +94,11 @@ ggxmv.com##.full-screen-cover
 ##.TOP_AD
 ##.full-screen-cover
 ##.video-cover
+
 !【网易邮箱广告过滤开始
 ##div[style=" margin:4px; padding:10px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; line-height:22px; border:1px dashed #ccc; background:#fffff7; position:relative;"]
 !网易邮箱广告过滤结束】
+
+##.page-tools
+##.gallery-mode
+
