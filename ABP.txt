@@ -38,11 +38,7 @@ iplaysoft.com###section_hot
 vod.cnzol.com##.fly-case-desc
 ttmeiju.me###new-user
 anxz.com###sidebar
-! toutiao.com##li.J_qihu_ad
-toutiao.com##li[class$="ad"]
-toutiao.com##.no-mode
-toutiao.com##.tool-item.report-item
-toutiao.com##.no-mode
+
 gaoqing.la###head.row
 pipipan.com##span
 ctfile.com##span
@@ -100,5 +96,11 @@ ggxmv.com##.full-screen-cover
 !网易邮箱广告过滤结束】
 
 ##.page-tools
+!以下为【今日头条】规则
 ##.gallery-mode
+! toutiao.com##li.J_qihu_ad
+toutiao.com##li[class$="ad"]
+toutiao.com##.no-mode
+toutiao.com##.tool-item.report-item
+toutiao.com##.no-mode
 
