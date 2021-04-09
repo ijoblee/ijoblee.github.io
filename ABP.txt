@@ -98,7 +98,6 @@ ggxmv.com##.full-screen-cover
 ##.widget.php_text.wow.fadeInUp
 ##.gs
 ##.gsdw
-##.carousel-inner
 ##.ptjc
 ##.custombox
 ##.TOP_AD
