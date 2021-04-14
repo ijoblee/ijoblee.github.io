@@ -104,3 +104,13 @@ ggxmv.com##.full-screen-cover
 ##.full-screen-cover
 ##.video-cover
 ##.page-tools
+
+##.error
+
+! 2021-01-01 https://www1.downsx.net
+##.adbox.uk-text-center.uk-container-center.uk-width-1-1.uk-width-medium-10-10
+##.hashinfo.uk-text-center.uk-container-center.uk-container > .adbox.uk-width-1-1.uk-width-medium-10-10
+
+##.p1Titles02
+##.fk_input
+##.list_x_c
