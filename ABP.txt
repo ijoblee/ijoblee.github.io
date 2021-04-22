@@ -114,3 +114,12 @@ ggxmv.com##.full-screen-cover
 ##.p1Titles02
 ##.fk_input
 ##.list_x_c
+
+##.col-2.mt-md-5.d-print-none
+##.article-interaction.my-4.d-flex.align-items-center.d-print-none
+##.tn_new_invest
+##.container.ads
+##.news-comments.py-5.d-print-none
+!##.mb-2.ads-336x280
+!##.article-banner.first-banner.ads-336x280
+##.ads-336x280
