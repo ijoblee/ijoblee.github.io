@@ -109,6 +109,10 @@ ggxmv.com##.full-screen-cover
 ##.share
 ##.collect
 
+! https://www.360zhyx.com/
+##.pull-right
+360zhyx.com##script:contains(分享到)
+
 ##.error
 
 ! 2021-01-01 https://www1.downsx.net
