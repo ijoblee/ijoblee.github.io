@@ -105,6 +105,8 @@ ggxmv.com##.full-screen-cover
 ##.video-cover
 ##.page-tools
 
+##.share
+
 ##.error
 
 ! 2021-01-01 https://www1.downsx.net
