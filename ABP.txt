@@ -111,8 +111,10 @@ ggxmv.com##.full-screen-cover
 
 ! https://www.360zhyx.com/
 ##.pull-right
-360zhyx.com##script:contains(分享到)
+360zhyx.com##script:contains("bdSnsKey")
+##.bdselect_share_box
 ##.bdselect_share_bg
+*/js/share.js*
 
 ##.error
 
