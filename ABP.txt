@@ -112,6 +112,7 @@ ggxmv.com##.full-screen-cover
 ! https://www.360zhyx.com/
 ##.pull-right
 360zhyx.com##script:contains(分享到)
+##.bdselect_share_bg
 
 ##.error
 
