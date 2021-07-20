@@ -65,6 +65,9 @@ ggxmv.com##.full-screen-cover
 ##td.f9
 ##tr[onmouseover="this.className='tr3 t_two'"]
 ##.tal.y-style.f
+##.topBox.marb5
+##.tr1.r_one
+##a[href^="/htmm/"]
 !BT7086 end】
 
 
