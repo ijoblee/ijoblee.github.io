@@ -107,6 +107,7 @@ ggxmv.com##.full-screen-cover
 ##.full-screen-cover
 ##.video-cover
 ##.page-tools
+##.parent-ad-desktop
 
 ! https://www.antpedia.com/
 ##.share
