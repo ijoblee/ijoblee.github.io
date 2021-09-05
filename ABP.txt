@@ -57,7 +57,6 @@ gaoqing.la###head.row
 pipipan.com##span
 ctfile.com##span
 cnzol.com##.fly-panel.layui-hide-xs
-meijuba.net##body > .container > .row > .clearfix.hy-layout
 ggxmv.com##.full-screen-cover
 !【BT7068 begin
 ##td[height="26"]
