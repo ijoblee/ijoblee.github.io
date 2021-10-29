@@ -79,6 +79,8 @@ ggxmv.com##.full-screen-cover
 ##[style="margin-bottom: 5px;"]
 ##[id^="vip"]
 ###InviteWindow
+##.parent-ad-desktop
+##div[style="clear:both"]
 !##.tac
 #@#.pull-right
 ##.modal-content
