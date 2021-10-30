@@ -82,6 +82,9 @@ ggxmv.com##.full-screen-cover
 ##.parent-ad-desktop
 ##div[style="clear:both"]
 !##.tac
+##.topBox.marb5
+##.tr1.r_one
+##a[href^="/htmm/"]
 #@#.pull-right
 ##.modal-content
 ###infoModal
