@@ -62,7 +62,7 @@ ggxmv.com##.full-screen-cover
 ##td[height="26"]
 ###td_3733
 ##td.f9
-##tr[onmouseover="this.className='tr3 t_two'"]
+!##tr[onmouseover="this.className='tr3 t_two'"]
 ##.tal.y-style.f
 ##.topBox.marb5
 ##.tr1.r_one
