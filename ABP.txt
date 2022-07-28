@@ -52,7 +52,7 @@ iplaysoft.com###section_hot
 vod.cnzol.com##.fly-case-desc
 ttmeiju.me###new-user
 anxz.com###sidebar
-
+www.hdmoli.com##div.clearfix.myui-panel-bg.myui-panel:nth-of-type(2)
 gaoqing.la###head.row
 pipipan.com##span
 ctfile.com##span
@@ -68,7 +68,9 @@ ggxmv.com##.full-screen-cover
 ##.tr1.r_one
 ##a[href^="/htmm/"]
 !BT7086 end】
-
+https://apps.bdimg.com/libs/jquery/1.9.1/jquery.min.js
+www.guokr.com###homeTopAd
+www.sntcm.edu.cn##div#div2
 
 ! 通用
 ##a[href^="http://www.japan-partner.com/"]
