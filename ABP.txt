@@ -11,7 +11,6 @@
 #@#.carousel
 www.dy2018.com#@#td[height="26"]
 www.dytt89.com#@#td[height="26"]
-www.bilibili.com#@#span.collect
 
 ! 暂留
 ! 特定文件
