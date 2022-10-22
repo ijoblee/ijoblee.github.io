@@ -116,10 +116,6 @@ www.sntcm.edu.cn##div#div2
 ##.page-tools
 ##.parent-ad-desktop
 
-! https://www.antpedia.com/
-##.share
-##.collect
-
 ! https://www.360zhyx.com/
 ##.pull-right
 www.360zhyx.com##script:contains("bdSnsKey")
