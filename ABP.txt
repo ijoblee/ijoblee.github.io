@@ -11,6 +11,7 @@
 #@#.carousel
 www.dy2018.com#@#td[height="26"]
 www.dytt89.com#@#td[height="26"]
+||205.209.138.102:8080/*.gif$image
 
 ! 暂留
 ! 特定文件
@@ -58,7 +59,13 @@ pipipan.com##span
 ctfile.com##span
 cnzol.com##.fly-panel.layui-hide-xs
 ggxmv.com##.full-screen-cover
+zfang.58.com##.close-wrap-content
+q2.2112ks.rocks##td:nth-of-type(1)
+
+
 !【BT7068 begin
+##tr.f_one.tr3:nth-of-type(3)
+##tr.f_one.tr3:nth-of-type(7)
 ##td[height="26"]
 ###td_3733
 ##td.f9
@@ -68,6 +75,7 @@ ggxmv.com##.full-screen-cover
 ##.tr1.r_one
 ##a[href^="/htmm/"]
 !BT7086 end】
+
 https://apps.bdimg.com/libs/jquery/1.9.1/jquery.min.js
 www.guokr.com###homeTopAd
 www.sntcm.edu.cn##div#div2
@@ -114,6 +122,10 @@ www.sntcm.edu.cn##div#div2
 ##.video-cover
 ##.page-tools
 ##.parent-ad-desktop
+##.pcad
+.wh_ad_inner.wh_ad_active.wh_ad_spacing.w_label.al_grey
+.dplayer-menu.dplayer-menu-show
+##div[id^='citydy']
 
 ! https://www.360zhyx.com/
 ##.pull-right
