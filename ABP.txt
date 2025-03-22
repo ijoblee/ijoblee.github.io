@@ -152,3 +152,13 @@ www.360zhyx.com##script:contains("bdSnsKey")
 !##.mb-2.ads-336x280
 !##.article-banner.first-banner.ads-336x280
 ##.ads-336x280
+
+div#ly
+##div.show-text2
+###separatorline
+###ly
+||p.sda1.dev/19/d5a44a902f58ed9d7fdde3918014da00/960240.gif$image
+##.pad-tb-10.show-text2
+##.pad-tb-10.show-text4
+##div#archive > article:nth-of-type(3), div#archive > article:nth-of-type(4), div#archive > article:nth-of-type(5)
+.ZHrlRAUU
