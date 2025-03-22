@@ -25,7 +25,6 @@ http://gaoqing.la/wp-content/uploads/20*.jpg
 toutiao.com##li[class$="ad"]
 toutiao.com##.no-mode
 toutiao.com##.tool-item.report-item
-toutiao.com##.no-mode
 
 !【网易邮箱广告过滤开始
 ##div[style=" margin:4px; padding:10px; font-family:Verdana, Arial, Helvetica, sans-serif; font-size:12px; line-height:22px; border:1px dashed #ccc; background:#fffff7; position:relative;"]
@@ -62,8 +61,7 @@ ggxmv.com##.full-screen-cover
 zfang.58.com##.close-wrap-content
 q2.2112ks.rocks##td:nth-of-type(1)
 
-
-!【BT7068 begin
+!【BT begin
 ##tr.f_one.tr3:nth-of-type(3)
 ##tr.f_one.tr3:nth-of-type(7)
 ##td[height="26"]
@@ -74,7 +72,7 @@ q2.2112ks.rocks##td:nth-of-type(1)
 ##.topBox.marb5
 ##.tr1.r_one
 ##a[href^="/htmm/"]
-!BT7086 end】
+!BT end】
 
 https://apps.bdimg.com/libs/jquery/1.9.1/jquery.min.js
 www.guokr.com###homeTopAd
@@ -92,10 +90,6 @@ www.sntcm.edu.cn##div#div2
 ##.parent-ad-desktop
 ##div[style="clear:both"]
 !##.tac
-##.topBox.marb5
-##.tr1.r_one
-##a[href^="/htmm/"]
-#@#.pull-right
 ##.modal-content
 ###infoModal
 ###floatDiv
@@ -121,14 +115,12 @@ www.sntcm.edu.cn##div#div2
 ##.full-screen-cover
 ##.video-cover
 ##.page-tools
-##.parent-ad-desktop
 ##.pcad
 .wh_ad_inner.wh_ad_active.wh_ad_spacing.w_label.al_grey
 .dplayer-menu.dplayer-menu-show
 ##div[id^='citydy']
 
 ! https://www.360zhyx.com/
-##.pull-right
 www.360zhyx.com##script:contains("bdSnsKey")
 ##.bdselect_share_box
 ##.bdselect_share_bg
