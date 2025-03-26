@@ -152,5 +152,5 @@ div#ly
 ||p.sda1.dev/19/d5a44a902f58ed9d7fdde3918014da00/960240.gif$image
 ##.pad-tb-10.show-text2
 ##.pad-tb-10.show-text4
-##div#archive > article:nth-of-type(3), div#archive > article:nth-of-type(4), div#archive > article:nth-of-type(5)
+##div#archive > article:nth-of-type(2), ##div#archive > article:nth-of-type(3), div#archive > article:nth-of-type(4), div#archive > article:nth-of-type(5)
 .ZHrlRAUU
