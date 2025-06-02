@@ -154,7 +154,14 @@ div#ly
 ##.pad-tb-10.show-text4
 
 .ZHrlRAUU
-
+! 吃瓜网
 ##article.no-mask:nth-of-type(1)
 ##article.no-mask:nth-of-type(2)
 ##article.no-mask:nth-of-type(3)
+##article.no-mask:nth-of-type(4)
+##article.no-mask:nth-of-type(6)
+##article.no-mask:nth-of-type(8)
+##article.no-mask:nth-of-type(20)
+##article:not(:has(div.post-card-info span))
+
+
