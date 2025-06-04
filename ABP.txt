@@ -162,6 +162,6 @@ div#ly
 ##article.no-mask:nth-of-type(6)
 ##article.no-mask:nth-of-type(8)
 ##article.no-mask:nth-of-type(20)
-##article:not(:has(div.post-card-info span))
+##article[itemtype$="BlogPosting"]:not(:has(div.post-card-info span))
 
 
