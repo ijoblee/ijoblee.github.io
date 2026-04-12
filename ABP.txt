@@ -169,4 +169,12 @@ div#ly
 ##div.post-card-ads
 ##div.txt-apps
 
+! 20260412230239
+.no-mask
+.post-card-mask.post-card-ads .post-card-container
+##.horizontal-banner
+##a[data-event="ad_click"]
+##.tjtagmanager
+##a[href^="/acttach/"][href$=".html"]
+
 
