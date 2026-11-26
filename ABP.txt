@@ -7,6 +7,7 @@
 
 ! 白名单
 @@||mpyit.com
+@@||easylearn.baidu.com
 #@#.pull-right
 #@#.carousel
 www.dy2018.com#@#td[height="26"]
