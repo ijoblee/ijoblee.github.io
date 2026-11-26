@@ -7,8 +7,6 @@
 
 ! 白名单
 @@||mpyit.com
-! 跳过百度题库验证
-@@||easylearn.baidu.com
 #@#.pull-right
 #@#.carousel
 www.dy2018.com#@#td[height="26"]
