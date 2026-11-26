@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20260128135042
+! Version: 20261126
 ! Title:  Joblee ADP
-! Last modified:
+! Last modified:20261126100515
 ! Email: 
 ! Homepage: 
 
