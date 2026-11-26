@@ -7,6 +7,7 @@
 
 ! 白名单
 @@||mpyit.com
+! 跳过百度题库验证
 @@||easylearn.baidu.com
 #@#.pull-right
 #@#.carousel
@@ -33,7 +34,7 @@ toutiao.com##.tool-item.report-item
 
 ebiotrade.com##.fk_input
 *.ebioweb.com/web_images/*
-@@||ebiotrade.com##ul#rdph
+
 www.ebiotrade.com##div.bigbox008:nth-of-type(5)
 www.ebiotrade.com##.bigbox007
 www.ebiotrade.com##.p1b1r_ss
@@ -146,7 +147,7 @@ www.360zhyx.com##script:contains("bdSnsKey")
 !##.article-banner.first-banner.ads-336x280
 ##.ads-336x280
 
-div#ly
+##div#ly
 ##div.show-text2
 ###separatorline
 ###ly
@@ -154,7 +155,7 @@ div#ly
 ##.pad-tb-10.show-text2
 ##.pad-tb-10.show-text4
 
-.ZHrlRAUU
+##.ZHrlRAUU
 ! 吃瓜网
 ##article.no-mask:nth-of-type(1)
 ##article.no-mask:nth-of-type(2)
@@ -171,8 +172,8 @@ div#ly
 ##div.txt-apps
 
 ! 20260412230239
-.no-mask
-.post-card-mask.post-card-ads .post-card-container
+##.no-mask
+##.post-card-mask.post-card-ads .post-card-container
 ##.horizontal-banner
 ##a[data-event="ad_click"]
 ##.tjtagmanager
